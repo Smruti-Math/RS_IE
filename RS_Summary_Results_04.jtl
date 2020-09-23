@@ -1,0 +1,914 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1600819141556,1559,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,56949,4871,1,1,null,0,803,54
+1600819141558,1372,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28497,1266,1,1,https://ie.rs-online.com/web/,1101,0,54
+1600819142938,133,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27038,1704,1,1,https://ie.rs-online.com/web/,127,0,0
+1600819143861,54,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819143925,527,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,42443,1807,1,1,null,0,860,0
+1600819144784,527,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,42443,1807,1,1,https://ie.rs-online.com/web/c/batteries-chargers/,506,0,0
+1600819145313,608,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,45629,1836,1,1,null,0,395,0
+1600819145707,608,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,45629,1836,1,1,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,585,0,0
+1600819146316,396,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33165,3754,1,1,null,0,894,0
+1600819146632,344,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,31751,1853,1,1,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,324,0,0
+1600819147552,52,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,51,0,0
+1600819147606,2519,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33012,5524,1,1,null,0,2264,0
+1600819148475,396,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30183,1813,1,1,https://ie.rs-online.com/web/p/battery-chargers/0549338/,382,0,0
+1600819149399,57,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819150322,2066,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,1,1,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2066,0,0
+1600819152456,263,ADD PRODUCT TO BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,2992,3916,1,1,null,0,717,0
+1600819152457,209,Add-211,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1655,2102,1,1,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/549-338/1,209,0,0
+1600819153381,54,Add-212,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1337,1814,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819153437,1502,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,40332,4024,1,1,null,0,1349,0
+1600819154304,441,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,38974,1863,1,1,https://ie.rs-online.com/web/ca/basketsummary/,417,0,0
+1600819155227,1061,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1358,2161,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,1061,0,0
+1600819156289,1767,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57114,4890,1,1,null,0,790,44
+1600819156290,1575,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28570,1266,1,1,https://ie.rs-online.com/web/,1092,0,44
+1600819157868,140,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27130,1723,1,1,https://ie.rs-online.com/web/,130,0,0
+1600819158792,52,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,52,0,0
+1600819158848,495,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,44531,1801,1,1,null,0,868,0
+1600819159715,495,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,44531,1801,1,1,https://ie.rs-online.com/web/c/cables-wires/,470,0,0
+1600819160212,557,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,46401,1827,1,1,null,0,426,0
+1600819160637,557,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,46401,1827,1,1,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,532,0,0
+1600819161196,394,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,31918,3760,1,1,null,0,952,0
+1600819161560,338,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30503,1859,1,1,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,321,0,0
+1600819162483,56,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819162544,3650,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33139,5539,1,1,null,0,2117,0
+1600819163407,538,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30311,1828,1,1,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/1614713/,523,0,0
+1600819164330,55,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,55,0,0
+1600819165253,3057,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,1,1,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3057,0,0
+1600819168336,2516,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,37062,3944,1,1,null,0,468,0
+1600819168337,457,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35788,1823,1,1,https://ie.rs-online.com/web/ca/basketsummary/,448,0,0
+1600819169260,2059,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1274,2121,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,2059,0,0
+1600819171323,2587,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57131,4881,1,1,null,0,745,49
+1600819171326,2347,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28584,1266,1,1,https://ie.rs-online.com/web/,2099,0,49
+1600819173677,188,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27133,1709,1,1,https://ie.rs-online.com/web/,176,0,0
+1600819174600,52,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1906,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,52,0,0
+1600819174656,613,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49487,1812,1,1,null,0,869,0
+1600819175524,613,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49487,1812,1,1,https://ie.rs-online.com/web/c/automation-control-gear/,588,0,0
+1600819176139,542,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49317,1836,1,1,null,0,308,0
+1600819176446,542,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49317,1836,1,1,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,522,0,0
+1600819176989,388,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32410,3761,1,1,null,0,974,0
+1600819177370,332,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30996,1860,1,1,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-ammeters/,316,0,0
+1600819178292,56,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819178352,2592,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32359,5531,1,1,null,0,2203,0
+1600819179216,450,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,29531,1820,1,1,https://ie.rs-online.com/web/p/analogue-panel-ammeters/1862474/,438,0,0
+1600819180138,57,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819181061,2085,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,1,1,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2085,0,0
+1600819183174,1510,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,37043,3944,1,1,null,0,477,0
+1600819183175,449,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35772,1823,1,1,https://ie.rs-online.com/web/ca/basketsummary/,436,0,0
+1600819184098,1061,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1271,2121,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,1061,0,0
+1600819185169,1578,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57130,4883,1,1,null,0,780,80
+1600819185171,1370,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28589,1266,1,1,https://ie.rs-online.com/web/,1127,0,80
+1600819186547,152,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27126,1710,1,1,https://ie.rs-online.com/web/,135,0,0
+1600819187469,56,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1907,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819187527,465,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,51558,1797,1,1,null,0,868,0
+1600819188394,465,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,51558,1797,1,1,https://ie.rs-online.com/web/c/lighting/,442,0,0
+1600819188861,574,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,50789,1823,1,1,null,0,455,0
+1600819189315,574,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,50789,1823,1,1,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,549,0,0
+1600819189890,311,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,27631,3738,1,1,null,0,1016,0
+1600819190239,257,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,26217,1837,1,1,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,254,0,0
+1600819191162,54,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819191217,3660,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33001,5521,1,1,null,0,2140,0
+1600819192086,521,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30173,1810,1,1,https://ie.rs-online.com/web/p/shaver-lights/8474875/,503,0,0
+1600819193008,54,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819193931,3085,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,1,1,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3085,0,0
+1600819197047,401,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,56699,7437,1,1,null,0,1510,0
+1600819197048,213,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28160,3567,1,1,https://ie.rs-online.com/web/,50,0,0
+1600819197971,129,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27125,1943,1,1,https://ie.rs-online.com/web/,124,0,0
+1600819198895,59,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1927,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819198960,1509,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,37060,3944,1,1,null,0,1335,0
+1600819199817,448,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35789,1823,1,1,https://ie.rs-online.com/web/ca/basketsummary/,437,0,0
+1600819200741,1061,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1271,2121,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,1061,0,0
+1600819201806,1519,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,56965,4871,1,1,null,0,815,48
+1600819201808,1345,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28501,1266,1,1,https://ie.rs-online.com/web/,1100,0,48
+1600819203161,120,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27050,1704,1,1,https://ie.rs-online.com/web/,116,0,0
+1600819204085,54,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819204143,555,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49495,1812,1,1,null,0,866,0
+1600819205008,555,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49495,1812,1,1,https://ie.rs-online.com/web/c/automation-control-gear/,528,0,0
+1600819205565,477,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49248,1828,1,1,null,0,366,0
+1600819205931,477,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49248,1828,1,1,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/,454,0,0
+1600819206409,380,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,31787,3738,1,1,null,0,1048,0
+1600819206854,324,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30373,1837,1,1,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/counters/,307,0,0
+1600819207777,56,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819207839,1499,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33201,5516,1,1,null,0,2265,0
+1600819208700,381,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30373,1805,1,1,https://ie.rs-online.com/web/p/counters/8967018/,368,0,0
+1600819209623,61,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819210544,1057,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,1,1,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1057,0,0
+1600819211628,3775,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,37060,3944,1,1,null,0,207,0
+1600819211629,720,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35786,1823,1,1,https://ie.rs-online.com/web/ca/basketsummary/,702,0,0
+1600819212553,3055,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1274,2121,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,3055,0,0
+1600819215613,2539,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,56955,4871,1,1,null,0,787,70
+1600819215616,2343,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28494,1266,1,1,https://ie.rs-online.com/web/,2116,0,70
+1600819217964,143,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27047,1704,1,1,https://ie.rs-online.com/web/,133,0,0
+1600819218885,53,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,53,0,0
+1600819218939,562,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49501,1812,1,1,null,0,870,0
+1600819219809,562,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49501,1812,1,1,https://ie.rs-online.com/web/c/automation-control-gear/,534,0,0
+1600819220373,491,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,52250,1832,1,1,null,0,360,0
+1600819220732,491,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,52250,1832,1,1,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/,462,0,0
+1600819221225,491,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,29354,3767,1,1,null,0,922,0
+1600819221655,433,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27859,1847,1,1,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/sensor-testers/,419,0,0
+1600819222578,58,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1495,1920,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819222639,2422,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32559,5522,1,1,null,0,2344,0
+1600819223501,313,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,29731,1811,1,1,https://ie.rs-online.com/web/p/sensor-testers/4585426/,306,0,0
+1600819224424,52,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,52,0,0
+1600819225347,2057,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,1,1,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2057,0,0
+1600819227437,2492,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,37068,3944,1,1,null,0,498,0
+1600819227440,428,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35794,1823,1,1,https://ie.rs-online.com/web/ca/basketsummary/,408,0,0
+1600819228361,2064,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1274,2121,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,2064,0,0
+1600819230429,1533,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57118,4881,1,1,null,0,796,44
+1600819230432,1334,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28579,1266,1,1,https://ie.rs-online.com/web/,1099,0,44
+1600819231772,139,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27125,1709,1,1,https://ie.rs-online.com/web/,127,0,0
+1600819232695,60,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1906,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819232760,552,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,51617,1797,1,1,null,0,859,0
+1600819233618,552,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,51617,1797,1,1,https://ie.rs-online.com/web/c/switches/,531,0,0
+1600819234172,395,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,45145,1823,1,1,null,0,369,0
+1600819234540,395,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,45145,1823,1,1,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,372,0,0
+1600819234936,284,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,29008,3749,1,1,null,0,1222,0
+1600819235463,230,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27594,1848,1,1,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,221,0,0
+1600819236387,54,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819236443,1602,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32840,5532,1,1,null,0,2171,0
+1600819237310,418,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30011,1821,1,1,https://ie.rs-online.com/web/p/foot-switch-guard-covers/6097145/,406,0,0
+1600819238233,125,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,125,0,0
+1600819239156,1059,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,1,1,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1059,0,0
+1600819240245,1494,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,37064,3944,1,1,null,0,502,0
+1600819240246,424,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35790,1823,1,1,https://ie.rs-online.com/web/ca/basketsummary/,408,0,0
+1600819241169,1070,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1274,2121,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,1070,0,0
+1600819242243,3577,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,56965,4871,1,1,null,0,789,48
+1600819242244,3344,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28506,1266,1,1,https://ie.rs-online.com/web/,3111,0,48
+1600819245592,142,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27044,1704,1,1,https://ie.rs-online.com/web/,129,0,0
+1600819246516,91,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,90,0,0
+1600819246612,615,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49482,1812,1,1,null,0,830,0
+1600819247441,615,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49482,1812,1,1,https://ie.rs-online.com/web/c/automation-control-gear/,592,0,0
+1600819248057,524,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49313,1836,1,1,null,0,306,0
+1600819248362,524,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49313,1836,1,1,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,496,0,0
+1600819248889,337,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,26895,3767,1,1,null,0,1031,0
+1600819249285,287,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,25481,1866,1,1,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-battery-meters/,274,0,0
+1600819250207,50,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,50,0,0
+1600819250258,3593,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32888,5537,1,1,null,0,2187,0
+1600819251132,372,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30059,1826,1,1,https://ie.rs-online.com/web/p/analogue-panel-battery-meters/0244929/,363,0,0
+1600819252055,161,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1901,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,161,0,0
+1600819252977,3060,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,1,1,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3060,0,0
+1600819256052,1492,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,37059,3944,1,1,null,0,495,0
+1600819256053,431,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35785,1823,1,1,https://ie.rs-online.com/web/ca/basketsummary/,420,0,0
+1600819256977,1061,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1274,2121,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,1061,0,0
+1600819258041,1587,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57119,4881,1,1,null,0,776,74
+1600819258043,1372,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28578,1266,1,1,https://ie.rs-online.com/web/,1122,0,74
+1600819259418,155,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27127,1709,1,1,https://ie.rs-online.com/web/,141,0,0
+1600819260341,60,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1906,1,1,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819260406,566,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,43052,3605,2,2,null,0,860,0
+1600819261265,566,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,43052,3605,2,2,https://ie.rs-online.com/web/c/batteries-chargers/,30,0,0
+1600819261832,476,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,44581,3664,2,2,null,0,1278,0
+1600819263110,476,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,44581,3664,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,37,0,0
+1600819261700,1567,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,56969,4871,2,2,null,0,2181,56
+1600819261704,1367,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28504,1266,2,2,https://ie.rs-online.com/web/,1110,0,56
+1600819263547,146,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27051,1704,2,2,https://ie.rs-online.com/web/,137,0,0
+1600819265393,54,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819263587,456,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,29437,5649,2,2,null,0,2825,0
+1600819264956,392,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28023,3800,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,60,0,0
+1600819266802,64,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1849,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,64,0,0
+1600819265452,404,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,42459,1807,2,2,null,0,1787,0
+1600819267239,404,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,42459,1807,2,2,https://ie.rs-online.com/web/c/batteries-chargers/,389,0,0
+1600819267646,404,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,45641,1836,2,2,null,0,1439,0
+1600819269085,404,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,45641,1836,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,388,0,0
+1600819269493,342,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,33158,3754,2,2,null,0,3019,0
+1600819270930,268,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,31744,1853,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,255,0,0
+1600819272777,74,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,74,0,0
+1600819266870,3643,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,34466,7406,2,2,null,0,4903,0
+1600819268648,502,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,31638,3747,2,2,https://ie.rs-online.com/web/p/analogue-panel-battery-meters/0244929/,68,0,0
+1600819270495,67,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1849,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,66,0,0
+1600819272340,3074,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,2,2,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3074,0,0
+1600819275443,1523,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36749,3964,2,2,null,0,1397,0
+1600819275444,452,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35816,1823,2,2,https://ie.rs-online.com/web/ca/basketsummary/,432,0,0
+1600819277290,1071,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,1071,0,0
+1600819272861,3579,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,32317,5247,2,2,null,0,4947,0
+1600819274623,444,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,29830,1813,2,2,https://ie.rs-online.com/web/p/battery-chargers/7934332/,427,0,0
+1600819276470,63,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,62,0,0
+1600819278315,3072,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1533,2,2,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3072,0,0
+1600819281404,269,ADD PRODUCT TO BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,2310,3364,2,2,null,0,1642,0
+1600819281404,207,Add-211,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1314,1827,2,2,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/793-4332/1,207,0,0
+1600819283251,62,Add-212,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,996,1537,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819278367,2600,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57131,4881,2,2,null,0,2469,42
+1600819279136,2389,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28585,1266,2,2,https://ie.rs-online.com/web/,2089,0,42
+1600819281527,152,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27132,1709,2,2,https://ie.rs-online.com/web/,147,0,0
+1600819283374,59,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1906,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819283437,452,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,44549,1801,2,2,null,0,1785,0
+1600819285221,452,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,44549,1801,2,2,https://ie.rs-online.com/web/c/cables-wires/,433,0,0
+1600819285675,458,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,46419,1827,2,2,null,0,1390,0
+1600819287065,458,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,46419,1827,2,2,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,451,0,0
+1600819283321,4121,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,40027,3767,2,2,null,0,2602,0
+1600819285097,1022,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,39010,1586,2,2,https://ie.rs-online.com/web/ca/basketsummary/,1012,0,0
+1600819286943,3099,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1017,2181,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,3098,0,0
+1600819287523,381,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,31918,3760,2,2,null,0,2918,0
+1600819288913,319,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30504,1859,2,2,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,301,0,0
+1600819290758,62,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,62,0,0
+1600819290050,1560,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,56957,4871,2,2,null,0,2189,79
+1600819290053,1385,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28497,1266,2,2,https://ie.rs-online.com/web/,1126,0,79
+1600819291896,120,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27046,1704,2,2,https://ie.rs-online.com/web/,117,0,0
+1600819293743,55,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819293801,548,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,49495,1812,2,2,null,0,1788,0
+1600819295589,548,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,49495,1812,2,2,https://ie.rs-online.com/web/c/automation-control-gear/,524,0,0
+1600819296137,567,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,49329,1836,2,2,null,0,1299,0
+1600819297435,567,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,49329,1836,2,2,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,545,0,0
+1600819290825,3509,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33222,5539,2,2,null,0,5029,0
+1600819292604,388,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30394,1828,2,2,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/1735470/,382,0,0
+1600819294450,57,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819296297,3064,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,2,2,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3064,0,0
+1600819298003,376,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,32350,3761,2,2,null,0,2814,0
+1600819299282,313,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30936,1860,2,2,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-ammeters/,304,0,0
+1600819301127,63,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,63,0,0
+1600819299388,474,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,56022,7158,2,2,null,0,3278,0
+1600819299390,219,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28159,3290,2,2,https://ie.rs-online.com/web/,69,0,0
+1600819301237,198,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,26790,1942,2,2,https://ie.rs-online.com/web/,184,0,0
+1600819303082,57,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1073,1926,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819301194,1486,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,33006,5531,2,2,null,0,5046,0
+1600819302973,367,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30178,1820,2,2,https://ie.rs-online.com/web/p/analogue-panel-ammeters/9010368/,355,0,0
+1600819304819,59,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819306665,1060,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1810,2,2,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1060,0,0
+1600819303141,3105,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36381,3944,2,2,null,0,2586,0
+1600819304927,1048,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35448,1823,2,2,https://ie.rs-online.com/web/ca/basketsummary/,1027,0,0
+1600819306773,2057,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2121,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,2057,0,0
+1600819307749,1487,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36747,3964,2,2,null,0,2187,0
+1600819308511,423,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35814,1823,2,2,https://ie.rs-online.com/web/ca/basketsummary/,407,0,0
+1600819310357,1064,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,933,2141,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,1063,0,0
+1600819308835,1616,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57131,4881,2,2,null,0,2136,52
+1600819308838,1405,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28588,1266,2,2,https://ie.rs-online.com/web/,1141,0,52
+1600819310682,155,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27129,1709,2,2,https://ie.rs-online.com/web/,144,0,0
+1600819312529,56,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1906,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819312589,465,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,51562,1797,2,2,null,0,1788,0
+1600819314376,465,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,51562,1797,2,2,https://ie.rs-online.com/web/c/lighting/,444,0,0
+1600819314843,556,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,50790,1823,2,2,null,0,1377,0
+1600819316220,556,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,50790,1823,2,2,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,522,0,0
+1600819311425,3557,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,56780,4604,2,2,null,0,2491,50
+1600819312204,3357,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28575,1266,2,2,https://ie.rs-online.com/web/,3104,0,50
+1600819315569,142,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27132,1709,2,2,https://ie.rs-online.com/web/,128,0,0
+1600819317414,58,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1629,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819317474,516,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,49225,1535,2,2,null,0,1786,0
+1600819319260,516,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,49225,1535,2,2,https://ie.rs-online.com/web/c/automation-control-gear/,485,0,0
+1600819316777,380,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,27482,3738,2,2,null,0,2816,0
+1600819318066,323,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,26068,1837,2,2,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,311,0,0
+1600819319914,57,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819319777,440,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,49000,1551,2,2,null,0,1328,0
+1600819321105,440,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,49000,1551,2,2,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/,410,0,0
+1600819321546,361,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,31454,3184,2,2,null,0,2952,0
+1600819322952,303,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30381,1560,2,2,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/counters/,299,0,0
+1600819324798,58,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1624,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819319974,1579,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32936,5521,2,2,null,0,4965,0
+1600819321759,450,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30108,1810,2,2,https://ie.rs-online.com/web/p/shaver-lights/8474875/,442,0,0
+1600819323605,62,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,62,0,0
+1600819325451,1067,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,2,2,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1067,0,0
+1600819326528,418,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,56034,7435,2,2,null,0,4104,0
+1600819327297,217,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28165,3567,2,2,https://ie.rs-online.com/web/,51,0,0
+1600819329142,142,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,26796,1942,2,2,https://ie.rs-online.com/web/,133,0,0
+1600819330988,59,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1073,1926,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819324860,3487,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,32595,4685,2,2,null,0,5049,0
+1600819326644,370,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30449,1528,2,2,https://ie.rs-online.com/web/p/counters/6699316/,359,0,0
+1600819328489,57,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1624,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819330335,3060,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1533,2,2,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3060,0,0
+1600819331052,2535,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36369,3944,2,2,null,0,3165,0
+1600819332834,464,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35439,1823,2,2,https://ie.rs-online.com/web/ca/basketsummary/,448,0,0
+1600819334681,2071,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,930,2121,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,2071,0,0
+1600819333421,3081,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36740,3687,2,2,null,0,821,0
+1600819333424,1027,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35807,1546,2,2,https://ie.rs-online.com/web/ca/basketsummary/,1020,0,0
+1600819335269,2054,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,933,2141,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,2053,0,0
+1600819336756,2570,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57136,4881,2,2,null,0,1712,84
+1600819336758,2366,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28587,1266,2,2,https://ie.rs-online.com/web/,2133,0,84
+1600819339130,145,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27135,1709,2,2,https://ie.rs-online.com/web/,131,0,0
+1600819340976,59,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1906,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819337327,2544,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,57127,4881,2,2,null,0,1711,52
+1600819337330,2340,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28580,1266,2,2,https://ie.rs-online.com/web/,2099,0,52
+1600819339674,144,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27133,1709,2,2,https://ie.rs-online.com/web/,133,0,0
+1600819341520,60,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1906,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819341039,508,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49501,1812,2,2,null,0,1784,0
+1600819342822,508,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49501,1812,2,2,https://ie.rs-online.com/web/c/automation-control-gear/,482,0,0
+1600819341584,942,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,51598,1797,2,2,null,0,1781,0
+1600819343365,942,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,51598,1797,2,2,https://ie.rs-online.com/web/c/switches/,922,0,0
+1600819343331,481,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,52244,1832,2,2,null,0,1338,0
+1600819344668,481,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,52244,1832,2,2,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/,456,0,0
+1600819344308,496,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,45133,1823,2,2,null,0,904,0
+1600819345212,496,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,45133,1823,2,2,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,477,0,0
+1600819345151,421,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,29191,3748,2,2,null,0,2857,0
+1600819346514,355,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27777,1847,2,2,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/sensor-testers/,343,0,0
+1600819348361,66,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,65,0,0
+1600819345709,294,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,29006,3749,2,2,null,0,2964,0
+1600819347058,233,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27591,1848,2,2,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,223,0,0
+1600819348904,61,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1415,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819348430,2528,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32487,5522,2,2,null,0,5000,0
+1600819350206,406,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,29659,1811,2,2,https://ie.rs-online.com/web/p/sensor-testers/4585426/,394,0,0
+1600819352052,63,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,63,0,0
+1600819353898,2059,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,2,2,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2059,0,0
+1600819348969,2546,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,31960,5532,2,2,null,0,4981,0
+1600819350749,419,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,29132,1821,2,2,https://ie.rs-online.com/web/p/foot-switch-guard-covers/1250870/,408,0,0
+1600819352596,72,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,71,0,0
+1600819354441,2055,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1810,2,2,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2055,0,0
+1600819355983,1456,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36742,3964,2,2,null,0,1478,0
+1600819355984,370,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35809,1823,2,2,https://ie.rs-online.com/web/ca/basketsummary/,360,0,0
+1600819357829,1086,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,1086,0,0
+1600819356511,2128,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36749,3964,2,2,null,0,782,0
+1600819356512,1067,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35816,1823,2,2,https://ie.rs-online.com/web/ca/basketsummary/,1050,0,0
+1600819358359,1061,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,933,2141,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,1061,0,0
+1600819359429,1589,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,56958,4871,2,2,null,0,2959,49
+1600819360206,1333,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28499,1266,2,2,https://ie.rs-online.com/web/,1097,0,49
+1600819362051,179,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27044,1704,2,2,https://ie.rs-online.com/web/,172,0,0
+1600819363897,77,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1415,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,77,0,0
+1600819358919,3521,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57133,4881,2,2,null,0,2470,50
+1600819359675,3330,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28591,1266,2,2,https://ie.rs-online.com/web/,3098,0,50
+1600819363009,137,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27128,1709,2,2,https://ie.rs-online.com/web/,130,0,0
+1600819364855,54,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1906,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819363978,423,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,43051,3605,2,2,null,0,1766,0
+1600819365743,423,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,43051,3605,2,2,https://ie.rs-online.com/web/c/batteries-chargers/,29,0,0
+1600819364910,612,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49488,1812,2,2,null,0,1793,0
+1600819366702,612,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49488,1812,2,2,https://ie.rs-online.com/web/c/automation-control-gear/,587,0,0
+1600819366169,475,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,44574,3664,2,2,null,0,1421,0
+1600819367589,475,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,44574,3664,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,30,0,0
+1600819367316,460,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49320,1836,2,2,null,0,1232,0
+1600819368547,460,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49320,1836,2,2,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,430,0,0
+1600819368066,439,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,29430,5649,2,2,null,0,2845,0
+1600819369435,373,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28016,3800,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,65,0,0
+1600819371282,66,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1849,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,66,0,0
+1600819369010,364,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,26893,3767,2,2,null,0,2931,0
+1600819370395,301,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,25478,1866,2,2,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-battery-meters/,292,0,0
+1600819372240,63,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1901,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,63,0,0
+1600819371353,3666,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,33464,7401,2,2,null,0,4857,0
+1600819373127,498,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30636,3742,2,2,https://ie.rs-online.com/web/p/foot-switch-guard-covers/1250870/,66,0,0
+1600819374973,112,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1849,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,112,0,0
+1600819376819,3056,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1810,2,2,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3056,0,0
+1600819379897,1474,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36741,3964,3,3,null,0,1507,0
+1600819379898,415,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35808,1823,2,2,https://ie.rs-online.com/web/ca/basketsummary/,399,0,0
+1600819381817,1059,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,933,2141,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,1059,0,0
+1600819372306,7202,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32727,4725,3,3,null,0,3577,0
+1600819374087,6091,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30499,1549,2,2,https://ie.rs-online.com/web/p/analogue-panel-battery-meters/0244913/,6082,0,0
+1600819380184,56,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1155,1643,2,2,https://ie.rs-online.com/web/miniBasketRunningTotal.html,55,0,0
+1600819382030,1055,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1073,1533,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1055,0,0
+1600819381819,1589,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,57133,4881,3,3,null,0,4010,79
+1600819381823,1362,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,28589,1266,3,3,https://ie.rs-online.com/web/,1125,0,79
+1600819384589,170,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27130,1709,3,3,https://ie.rs-online.com/web/,160,0,0
+1600819387358,57,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1906,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819383102,2519,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36734,3687,3,3,null,0,4009,0
+1600819384799,459,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35801,1546,3,3,https://ie.rs-online.com/web/ca/basketsummary/,443,0,0
+1600819387568,2060,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,2060,0,0
+1600819387420,431,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,42444,1807,3,3,null,0,2707,0
+1600819390127,431,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,42444,1807,3,3,https://ie.rs-online.com/web/c/batteries-chargers/,414,0,0
+1600819382881,3819,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,56944,4623,3,3,null,0,4271,47
+1600819384514,3626,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28655,1266,3,3,https://ie.rs-online.com/web/,3099,0,47
+1600819388143,136,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27216,1728,3,3,https://ie.rs-online.com/web/,128,0,0
+1600819390912,57,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1629,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819390559,464,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,45624,1836,3,3,null,0,2337,0
+1600819392896,464,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,45624,1836,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,458,0,0
+1600819390972,439,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,44288,1524,3,3,null,0,2712,0
+1600819393683,439,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,44288,1524,3,3,https://ie.rs-online.com/web/c/cables-wires/,423,0,0
+1600819389632,2718,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,56969,4871,3,3,null,0,3592,50
+1600819390338,2484,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28505,1266,3,3,https://ie.rs-online.com/web/,2095,0,50
+1600819393106,174,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27050,1704,3,3,https://ie.rs-online.com/web/,169,0,0
+1600819395875,60,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819394124,462,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,46149,1550,3,3,null,0,2327,0
+1600819396450,462,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,46149,1550,3,3,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,438,0,0
+1600819393361,370,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,33086,3754,3,3,null,0,4761,0
+1600819395665,313,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,31672,1853,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,308,0,0
+1600819398434,57,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819395943,506,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49485,1812,3,3,null,0,2702,0
+1600819398644,506,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49485,1812,3,3,https://ie.rs-online.com/web/c/automation-control-gear/,479,0,0
+1600819399152,602,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49321,1836,3,3,null,0,2261,0
+1600819401413,602,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49321,1836,3,3,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,590,0,0
+1600819396914,314,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,31583,3206,3,3,null,0,4817,0
+1600819399220,258,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30510,1582,3,3,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,250,0,0
+1600819401988,56,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1624,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819402016,361,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32416,3761,3,3,null,0,4663,0
+1600819404183,273,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,31002,1860,3,3,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-ammeters/,260,0,0
+1600819406952,88,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,88,0,0
+1600819398493,2476,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,32899,5524,3,3,null,0,7830,0
+1600819401202,361,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,30070,1813,3,3,https://ie.rs-online.com/web/p/battery-chargers/4784083/,356,0,0
+1600819403972,58,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1415,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819406741,2057,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1810,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2057,0,0
+1600819408834,488,ADD PRODUCT TO BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,2978,3918,3,3,null,0,3018,0
+1600819409509,430,Add-211,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1641,2104,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/478-4083/1,429,0,0
+1600819412279,58,Add-212,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1337,1814,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819402045,2573,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,32163,4708,3,3,null,0,7742,0
+1600819404758,452,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30017,1551,3,3,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/0777738/,434,0,0
+1600819407527,57,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1624,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819410295,2064,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1533,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2064,0,0
+1600819407042,1496,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32354,5531,3,3,null,0,7778,0
+1600819409720,384,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,29526,1820,3,3,https://ie.rs-online.com/web/p/analogue-panel-ammeters/1862448/,371,0,0
+1600819412488,55,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,55,0,0
+1600819415258,1057,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1057,0,0
+1600819412373,4143,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36733,3687,3,3,null,0,2383,0
+1600819413064,1079,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35800,1546,3,3,https://ie.rs-online.com/web/ca/basketsummary/,1065,0,0
+1600819415835,3064,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,933,2141,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,3064,0,0
+1600819412341,2536,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,40023,4044,3,3,null,0,4998,0
+1600819415048,476,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,39009,1863,3,3,https://ie.rs-online.com/web/ca/basketsummary/,459,0,0
+1600819417816,2060,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1014,2181,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,2060,0,0
+1600819416336,3226,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36742,3964,3,3,null,0,3291,0
+1600819418026,1170,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35811,1823,3,3,https://ie.rs-online.com/web/ca/basketsummary/,1166,0,0
+1600819420795,2056,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,931,2141,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,2056,0,0
+1600819418901,1658,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,57131,4881,3,3,null,0,3934,70
+1600819418902,1472,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28580,1266,3,3,https://ie.rs-online.com/web/,1115,0,70
+1600819421670,132,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27137,1709,3,3,https://ie.rs-online.com/web/,130,0,0
+1600819424439,54,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1906,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819419877,2543,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,57134,4881,3,3,null,0,3772,49
+1600819420586,2338,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,28588,1266,3,3,https://ie.rs-online.com/web/,2096,0,49
+1600819423355,140,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27132,1709,3,3,https://ie.rs-online.com/web/,134,0,0
+1600819426124,65,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1906,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,65,0,0
+1600819424494,551,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,51568,1797,3,3,null,0,2714,0
+1600819427208,551,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,51568,1797,3,3,https://ie.rs-online.com/web/c/lighting/,534,0,0
+1600819426194,569,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,49498,1812,3,3,null,0,2700,0
+1600819428894,569,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,49498,1812,3,3,https://ie.rs-online.com/web/c/automation-control-gear/,562,0,0
+1600819422854,3555,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57140,4881,3,3,null,0,3344,46
+1600819423565,3345,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28585,1266,3,3,https://ie.rs-online.com/web/,3093,0,46
+1600819426916,145,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27140,1709,3,3,https://ie.rs-online.com/web/,136,0,0
+1600819429686,65,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1906,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,64,0,0
+1600819427760,433,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,50793,1823,3,3,null,0,2218,0
+1600819429978,433,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,50793,1823,3,3,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,405,0,0
+1600819429463,425,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,49262,1828,3,3,null,0,2200,0
+1600819431662,425,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,49262,1828,3,3,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/,411,0,0
+1600819429755,455,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49489,1812,3,3,null,0,2698,0
+1600819432453,455,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49489,1812,3,3,https://ie.rs-online.com/web/c/automation-control-gear/,428,0,0
+1600819430413,411,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,27557,3738,3,3,null,0,4754,0
+1600819432746,351,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,26143,1837,3,3,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,343,0,0
+1600819435516,60,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819432909,574,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,52241,1832,3,3,null,0,2315,0
+1600819435223,574,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,52241,1832,3,3,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/,556,0,0
+1600819432090,427,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,31786,3738,3,3,null,0,4748,0
+1600819434431,364,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,30372,1837,3,3,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/counters/,346,0,0
+1600819437200,63,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,63,0,0
+1600819435798,361,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,29128,3748,3,3,null,0,4669,0
+1600819437992,297,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27714,1847,3,3,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/sensor-testers/,288,0,0
+1600819440761,64,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,64,0,0
+1600819435579,3660,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,33009,5521,3,3,null,0,7670,0
+1600819438284,517,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30181,1810,3,3,https://ie.rs-online.com/web/p/shaver-lights/8474875/,503,0,0
+1600819441054,58,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819443823,3085,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1810,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3085,0,0
+1600819437267,2532,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,31928,5516,3,3,null,0,7771,0
+1600819439968,408,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,29099,1805,3,3,https://ie.rs-online.com/web/p/counters/4661227/,395,0,0
+1600819442738,62,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1415,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,62,0,0
+1600819445507,2062,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1810,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2061,0,0
+1600819440830,2543,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33688,5522,3,3,null,0,7759,0
+1600819443530,421,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30859,1811,3,3,https://ie.rs-online.com/web/p/sensor-testers/8399875/,407,0,0
+1600819446299,59,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819449069,2063,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2063,0,0
+1600819447586,1506,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,36750,3964,3,3,null,0,3013,0
+1600819448275,447,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,35817,1823,3,3,https://ie.rs-online.com/web/ca/basketsummary/,433,0,0
+1600819451046,1059,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,933,2141,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,1059,0,0
+1600819446944,402,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,56028,7158,3,3,null,0,5201,0
+1600819446945,194,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28166,3290,3,3,https://ie.rs-online.com/web/,50,0,0
+1600819449716,149,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,26789,1942,3,3,https://ie.rs-online.com/web/,140,0,0
+1600819452484,59,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1926,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819451152,2514,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36748,3964,3,3,null,0,3003,0
+1600819451838,454,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35815,1823,3,3,https://ie.rs-online.com/web/ca/basketsummary/,439,0,0
+1600819454607,2060,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,2060,0,0
+1600819452107,3678,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,57122,4881,3,3,null,0,4285,75
+1600819453815,3415,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,28576,1266,3,3,https://ie.rs-online.com/web/,3125,0,75
+1600819457236,202,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27131,1709,3,3,https://ie.rs-online.com/web/,188,0,0
+1600819460006,61,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1415,1906,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819452550,3385,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36372,3944,3,3,null,0,4150,0
+1600819455253,1325,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35442,1823,3,3,https://ie.rs-online.com/web/ca/basketsummary/,1310,0,0
+1600819458023,2060,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,930,2121,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,2060,0,0
+1600819460072,627,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,51607,1797,3,3,null,0,2702,0
+1600819462774,627,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,51607,1797,3,3,https://ie.rs-online.com/web/c/switches/,604,0,0
+1600819456671,5578,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57149,4881,3,3,null,0,3342,49
+1600819457376,5381,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28599,1266,3,3,https://ie.rs-online.com/web/,5092,0,49
+1600819462761,140,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27136,1709,3,3,https://ie.rs-online.com/web/,129,0,0
+1600819465531,57,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1906,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819463402,441,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,45146,1823,3,3,null,0,2142,0
+1600819465543,441,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,45146,1823,3,3,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,421,0,0
+1600819460087,1555,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,57050,4876,3,3,null,0,4745,51
+1600819460792,1343,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28507,1266,3,3,https://ie.rs-online.com/web/,1097,0,51
+1600819463560,156,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27129,1704,3,3,https://ie.rs-online.com/web/,147,0,0
+1600819466329,56,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1906,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819465593,541,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49493,1812,3,3,null,0,2708,0
+1600819468300,541,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49493,1812,3,3,https://ie.rs-online.com/web/c/automation-control-gear/,515,0,0
+1600819466388,558,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,43051,3605,3,3,null,0,2710,0
+1600819469097,558,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,43051,3605,3,3,https://ie.rs-online.com/web/c/batteries-chargers/,28,0,0
+1600819465986,371,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,29078,3749,3,3,null,0,4794,0
+1600819468312,305,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27664,1848,3,3,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,291,0,0
+1600819471082,66,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,65,0,0
+1600819468844,639,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49325,1836,3,3,null,0,2227,0
+1600819471070,639,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49325,1836,3,3,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,617,0,0
+1600819469656,466,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,44571,3664,3,3,null,0,2213,0
+1600819471868,466,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,44571,3664,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,30,0,0
+1600819471711,356,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,26965,3767,3,3,null,0,4601,0
+1600819473837,295,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,25550,1866,3,3,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-battery-meters/,293,0,0
+1600819476606,61,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819472336,389,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,29368,5649,3,3,null,0,4738,0
+1600819474636,333,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27954,3800,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,68,0,0
+1600819477405,56,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1849,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819471153,2557,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,31963,5532,3,3,null,0,7732,0
+1600819473851,445,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,29135,1821,3,3,https://ie.rs-online.com/web/p/foot-switch-guard-covers/1250870/,442,0,0
+1600819476619,58,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819479387,2054,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1810,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2054,0,0
+1600819476670,2519,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32892,5537,3,3,null,0,7785,0
+1600819479374,399,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30064,1826,3,3,https://ie.rs-online.com/web/p/analogue-panel-battery-meters/0244929/,388,0,0
+1600819482144,60,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819484913,2060,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2060,0,0
+1600819481453,2541,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,36750,3964,3,3,null,0,2997,0
+1600819482157,479,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,35817,1823,3,3,https://ie.rs-online.com/web/ca/basketsummary/,460,0,0
+1600819484926,2062,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,933,2141,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,2061,0,0
+1600819477463,2862,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,34498,7390,3,3,null,0,7453,0
+1600819480174,732,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,31670,3731,3,3,https://ie.rs-online.com/web/p/shaver-lights/8474875/,66,0,0
+1600819482943,64,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1849,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,64,0,0
+1600819485712,2066,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1810,3,3,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2065,0,0
+1600819486996,2063,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36745,3964,3,3,null,0,2454,0
+1600819487681,1002,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35812,1823,3,3,https://ie.rs-online.com/web/ca/basketsummary/,987,0,0
+1600819490450,1061,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,1061,0,0
+1600819486995,1635,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,56620,4594,3,3,null,0,4663,76
+1600819487695,1405,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,28500,1266,3,3,https://ie.rs-online.com/web/,1124,0,76
+1600819490463,173,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27047,1704,3,3,https://ie.rs-online.com/web/,160,0,0
+1600819493232,57,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1073,1624,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819487794,472,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,56036,7435,3,3,null,0,5813,0
+1600819488480,259,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28167,3567,3,3,https://ie.rs-online.com/web/,49,0,0
+1600819491250,155,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,26795,1942,3,3,https://ie.rs-online.com/web/,145,0,0
+1600819494019,58,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1074,1926,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819493294,517,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,42187,1530,3,3,null,0,2708,0
+1600819496002,517,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,42187,1530,3,3,https://ie.rs-online.com/web/c/batteries-chargers/,502,0,0
+1600819496521,531,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,45391,1559,3,3,null,0,2251,0
+1600819498772,531,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,45391,1559,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,514,0,0
+1600819491516,3556,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57137,4881,3,3,null,0,4332,52
+1600819493220,3325,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28586,1266,3,3,https://ie.rs-online.com/web/,3099,0,52
+1600819496549,148,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27136,1709,3,3,https://ie.rs-online.com/web/,139,0,0
+1600819499318,83,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1906,3,3,https://ie.rs-online.com/web/miniBasketRunningTotal.html,83,0,0
+1600819494082,3344,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36375,3944,3,3,null,0,4201,0
+1600819496789,1277,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35442,1823,3,3,https://ie.rs-online.com/web/ca/basketsummary/,1257,0,0
+1600819499558,2067,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,933,2121,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,2067,0,0
+1600819499406,483,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,44548,1801,4,4,null,0,2682,0
+1600819502087,483,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,44548,1801,4,4,https://ie.rs-online.com/web/c/cables-wires/,461,0,0
+1600819499304,387,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,32827,3200,4,4,null,0,4689,0
+1600819501540,319,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,31754,1576,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,285,0,0
+1600819504309,68,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1073,1624,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,68,0,0
+1600819502571,434,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,46417,1827,4,4,null,0,3208,0
+1600819505779,434,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,46417,1827,4,4,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,419,0,0
+1600819501953,3538,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,56964,4871,4,4,null,0,3911,57
+1600819501961,3339,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,28506,1266,4,4,https://ie.rs-online.com/web/,3109,0,57
+1600819505646,137,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,27044,1704,4,4,https://ie.rs-online.com/web/,129,0,0
+1600819509339,62,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,62,0,0
+1600819501629,1564,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,56624,4594,4,4,null,0,6577,51
+1600819502327,1338,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28502,1266,4,4,https://ie.rs-online.com/web/,1101,0,51
+1600819506018,166,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27049,1704,4,4,https://ie.rs-online.com/web/,153,0,0
+1600819509709,60,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1624,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819506214,325,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,31916,3760,4,4,null,0,6687,0
+1600819509471,264,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30502,1859,4,4,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,236,0,0
+1600819513163,61,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819509404,545,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,51569,1797,4,4,null,0,3627,0
+1600819513031,545,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,51569,1797,4,4,https://ie.rs-online.com/web/c/lighting/,518,0,0
+1600819509771,626,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,49223,1535,4,4,null,0,3631,0
+1600819513401,626,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,49223,1535,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,602,0,0
+1600819513576,485,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,50795,1823,4,4,null,0,3147,0
+1600819516723,485,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,50795,1823,4,4,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,469,0,0
+1600819514029,450,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,49064,1559,4,4,null,0,3065,0
+1600819517094,450,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,49064,1559,4,4,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,434,0,0
+1600819504381,3514,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,32394,4693,4,4,null,0,10550,0
+1600819508001,362,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,30247,1536,4,4,https://ie.rs-online.com/web/p/battery-chargers/0549338/,350,0,0
+1600819511693,92,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1074,1624,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,92,0,0
+1600819515385,3060,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1073,1533,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3060,0,0
+1600819517209,365,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,27625,3738,4,4,null,0,6597,0
+1600819520415,304,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,26211,1837,4,4,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,300,0,0
+1600819524107,61,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819517545,332,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,32085,3207,4,4,null,0,6663,0
+1600819520786,271,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,31012,1583,4,4,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-ammeters/,255,0,0
+1600819524478,61,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1624,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819518455,3487,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,36736,3687,4,4,null,0,3890,0
+1600819519077,426,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,35803,1546,4,4,https://ie.rs-online.com/web/ca/basketsummary/,412,0,0
+1600819522769,3061,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,933,2141,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,3061,0,0
+1600819513228,2562,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,32834,5539,4,4,null,0,10513,0
+1600819516855,436,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30006,1828,4,4,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/6665063/,430,0,0
+1600819520547,63,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,63,0,0
+1600819524239,2063,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2063,0,0
+1600819525834,2628,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,57132,4881,4,4,null,0,5450,70
+1600819526460,2342,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,28583,1266,4,4,https://ie.rs-online.com/web/,2123,0,70
+1600819530152,222,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27135,1709,4,4,https://ie.rs-online.com/web/,209,0,0
+1600819533845,64,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1906,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,64,0,0
+1600819526326,3468,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36744,3964,4,4,null,0,4889,0
+1600819527931,408,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35811,1823,4,4,https://ie.rs-online.com/web/ca/basketsummary/,396,0,0
+1600819531622,3060,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,3060,0,0
+1600819533915,555,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,49494,1812,4,4,null,0,3624,0
+1600819537538,555,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,49494,1812,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,528,0,0
+1600819524172,3672,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,32945,5521,4,4,null,0,10401,0
+1600819527799,539,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,30117,1810,4,4,https://ie.rs-online.com/web/p/shaver-lights/8474875/,526,0,0
+1600819531491,72,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,72,0,0
+1600819535184,3061,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1810,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3061,0,0
+1600819524540,3504,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,31584,4700,4,4,null,0,10569,0
+1600819528169,384,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,29438,1543,4,4,https://ie.rs-online.com/web/p/analogue-panel-ammeters/1862493/,375,0,0
+1600819531862,61,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1624,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819535554,3059,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1073,1533,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3059,0,0
+1600819538095,456,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,49252,1828,4,4,null,0,3135,0
+1600819541229,456,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,49252,1828,4,4,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/,426,0,0
+1600819534686,2596,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57127,4883,4,4,null,0,5479,50
+1600819535316,2352,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28582,1266,4,4,https://ie.rs-online.com/web/,2098,0,50
+1600819539008,190,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27131,1710,4,4,https://ie.rs-online.com/web/,175,0,0
+1600819542705,54,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1907,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819538631,1502,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36741,3687,4,4,null,0,3872,0
+1600819539246,437,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35808,1546,4,4,https://ie.rs-online.com/web/ca/basketsummary/,422,0,0
+1600819542938,1065,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,933,2141,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,1065,0,0
+1600819538288,403,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,56033,7435,4,4,null,0,7626,0
+1600819538875,206,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,28170,3567,4,4,https://ie.rs-online.com/web/,57,0,0
+1600819542568,142,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,26790,1942,4,4,https://ie.rs-online.com/web/,133,0,0
+1600819546259,55,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1073,1926,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,54,0,0
+1600819542761,531,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49482,1812,4,4,null,0,3631,0
+1600819546391,531,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49482,1812,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,511,0,0
+1600819541686,505,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,31783,3738,4,4,null,0,6484,0
+1600819544922,446,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,30369,1837,4,4,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/counters/,431,0,0
+1600819548613,59,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819546924,615,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,52224,1832,4,4,null,0,3160,0
+1600819550083,615,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,52224,1832,4,4,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/,589,0,0
+1600819546318,288,ADD PRODUCT TO BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,2296,3918,4,4,null,0,7099,0
+1600819549951,228,Add-211,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1300,2104,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/847-4875/1,227,0,0
+1600819553643,60,Add-212,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,996,1814,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819544007,2947,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,57123,4881,4,4,null,0,7116,53
+1600819546631,2348,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28582,1266,4,4,https://ie.rs-online.com/web/,2102,0,53
+1600819550322,544,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27127,1709,4,4,https://ie.rs-online.com/web/,531,0,0
+1600819554013,55,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1906,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,55,0,0
+1600819550700,646,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,29279,3767,4,4,null,0,6256,0
+1600819553774,512,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27783,1847,4,4,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/sensor-testers/,502,0,0
+1600819557466,134,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1496,1920,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,133,0,0
+1600819554071,549,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,51598,1797,4,4,null,0,3643,0
+1600819557713,549,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,51598,1797,4,4,https://ie.rs-online.com/web/c/switches/,529,0,0
+1600819548676,2527,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,32875,5516,4,4,null,0,10559,0
+1600819552304,394,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,30047,1805,4,4,https://ie.rs-online.com/web/p/counters/8967037/,386,0,0
+1600819555997,61,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819559689,2072,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1810,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2072,0,0
+1600819558264,487,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,45141,1823,4,4,null,0,3134,0
+1600819561398,487,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,45141,1823,4,4,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,467,0,0
+1600819553709,1438,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,39745,4044,4,4,null,0,6944,0
+1600819557335,377,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,38728,1863,4,4,https://ie.rs-online.com/web/ca/basketsummary/,372,0,0
+1600819561028,1061,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1017,2181,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,1061,0,0
+1600819561786,1437,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,36735,3964,4,4,null,0,4907,0
+1600819563381,382,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,35802,1823,4,4,https://ie.rs-online.com/web/ca/basketsummary/,366,0,0
+1600819567074,1055,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,933,2141,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,1055,0,0
+1600819561886,310,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,29014,3749,4,4,null,0,6648,0
+1600819565089,250,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27600,1848,4,4,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,239,0,0
+1600819568782,60,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819557604,3488,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33536,5522,4,4,null,0,10512,0
+1600819561159,370,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30708,1811,4,4,https://ie.rs-online.com/web/p/sensor-testers/8572907/,353,0,0
+1600819564850,57,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819568542,3061,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3061,0,0
+1600819562093,3540,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,57125,4881,4,4,null,0,6534,71
+1600819564719,3346,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,28574,1266,4,4,https://ie.rs-online.com/web/,3126,0,71
+1600819568410,132,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,27137,1709,4,4,https://ie.rs-online.com/web/,125,0,0
+1600819572103,62,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1906,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,62,0,0
+1600819572168,467,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,49495,1812,4,4,null,0,3628,0
+1600819575796,467,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,49495,1812,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,449,0,0
+1600819571633,2468,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36742,3964,4,4,null,0,3886,0
+1600819572234,408,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35809,1823,4,4,https://ie.rs-online.com/web/ca/basketsummary/,386,0,0
+1600819575927,2060,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,2059,0,0
+1600819568130,3546,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,56958,4871,4,4,null,0,6540,49
+1600819570766,3347,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,28498,1266,4,4,https://ie.rs-online.com/web/,3100,0,49
+1600819574457,133,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27046,1704,4,4,https://ie.rs-online.com/web/,128,0,0
+1600819578149,66,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,66,0,0
+1600819576265,490,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,49326,1836,4,4,null,0,3223,0
+1600819579488,490,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,49326,1836,4,4,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,466,0,0
+1600819578218,473,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,43060,3605,4,4,null,0,3624,0
+1600819581841,473,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,43060,3605,4,4,https://ie.rs-online.com/web/c/batteries-chargers/,33,0,0
+1600819568846,3667,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,32438,5532,4,4,null,0,10402,0
+1600819572473,552,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,29609,1821,4,4,https://ie.rs-online.com/web/p/foot-switch-guard-covers/0116726/,540,0,0
+1600819576166,58,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1415,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819579858,3057,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1810,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3057,0,0
+1600819582315,442,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,44578,3664,4,4,null,0,3218,0
+1600819585533,442,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,44578,3664,4,4,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,31,0,0
+1600819579979,507,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,26891,3767,4,4,null,0,6452,0
+1600819583179,443,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,25477,1866,4,4,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-battery-meters/,431,0,0
+1600819586872,64,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,63,0,0
+1600819577995,3541,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57118,4881,4,4,null,0,5527,50
+1600819579621,3345,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28575,1266,4,4,https://ie.rs-online.com/web/,3111,0,50
+1600819583311,139,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27129,1709,4,4,https://ie.rs-online.com/web/,131,0,0
+1600819587004,57,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1906,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819582942,2482,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36735,3964,4,4,null,0,3884,0
+1600819583550,417,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35802,1823,4,4,https://ie.rs-online.com/web/ca/basketsummary/,406,0,0
+1600819587242,2065,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,933,2141,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,2065,0,0
+1600819587064,431,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,42456,1807,4,4,null,0,3631,0
+1600819590694,431,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,42456,1807,4,4,https://ie.rs-online.com/web/c/batteries-chargers/,403,0,0
+1600819585976,453,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,29365,5649,4,4,null,0,6551,0
+1600819589225,393,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27951,3800,4,4,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,63,0,0
+1600819592916,60,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1849,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819591125,436,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,45640,1836,4,4,null,0,3261,0
+1600819594387,436,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,45640,1836,4,4,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,419,0,0
+1600819589311,2632,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,57125,4881,4,4,null,0,6490,54
+1600819590934,2356,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28582,1266,4,4,https://ie.rs-online.com/web/,2113,0,54
+1600819594626,162,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27128,1709,4,4,https://ie.rs-online.com/web/,152,0,0
+1600819598319,114,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1415,1906,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,114,0,0
+1600819586940,1656,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,33268,5537,4,4,null,0,10408,0
+1600819590562,547,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,30440,1826,4,4,https://ie.rs-online.com/web/p/analogue-panel-battery-meters/0244913/,535,0,0
+1600819594255,53,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,52,0,0
+1600819597947,1056,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1810,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1056,0,0
+1600819594824,369,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33237,3754,4,4,null,0,6640,0
+1600819598079,310,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,31823,1853,4,4,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,304,0,0
+1600819601771,59,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819598435,441,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,44556,1801,4,4,null,0,3576,0
+1600819602010,441,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,44556,1801,4,4,https://ie.rs-online.com/web/c/cables-wires/,425,0,0
+1600819602453,520,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,46416,1827,4,4,null,0,3250,0
+1600819605703,520,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,46416,1827,4,4,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,495,0,0
+1600819599037,1474,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,36736,3964,4,4,null,0,5881,0
+1600819601639,415,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,35803,1823,4,4,https://ie.rs-online.com/web/ca/basketsummary/,398,0,0
+1600819605332,1059,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,933,2141,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,1059,0,0
+1600819592980,3585,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,34081,7108,4,4,null,0,10483,0
+1600819596609,468,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,31594,3726,4,4,https://ie.rs-online.com/web/p/counters/8967037/,71,0,0
+1600819600301,61,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1849,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819603994,3056,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1073,1533,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3055,0,0
+1600819606225,424,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,31920,3760,4,4,null,0,6501,0
+1600819609394,362,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30506,1859,4,4,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,347,0,0
+1600819613086,62,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,62,0,0
+1600819607081,2519,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,36747,3687,4,4,null,0,3842,0
+1600819607686,458,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,35814,1546,4,4,https://ie.rs-online.com/web/ca/basketsummary/,443,0,0
+1600819611379,2061,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,933,2141,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,2061,0,0
+1600819601835,3501,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33073,5524,4,4,null,0,10568,0
+1600819605463,381,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30245,1813,4,4,https://ie.rs-online.com/web/p/battery-chargers/0549338/,369,0,0
+1600819609156,63,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,63,0,0
+1600819612847,3057,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,4,4,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3057,0,0
+1600819606395,2618,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,56966,4871,4,4,null,0,7453,78
+1600819609025,2383,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,28503,1266,4,4,https://ie.rs-online.com/web/,2130,0,78
+1600819612716,178,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,27049,1704,4,4,https://ie.rs-online.com/web/,152,0,0
+1600819616407,57,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,57,0,0
+1600819616467,570,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,49504,1812,4,4,null,0,3634,0
+1600819620100,570,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,49504,1812,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,548,0,0
+1600819615930,2493,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36736,3964,5,5,null,0,3869,0
+1600819616540,435,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35803,1823,4,4,https://ie.rs-online.com/web/ca/basketsummary/,415,0,0
+1600819620232,2058,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,2058,0,0
+1600819613446,1591,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,56977,4871,5,5,null,0,7474,47
+1600819615069,1370,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,28510,1266,4,4,https://ie.rs-online.com/web/,1092,0,47
+1600819618762,166,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27053,1704,4,4,https://ie.rs-online.com/web/,156,0,0
+1600819622453,55,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,55,0,0
+1600819620672,484,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,49339,1836,5,5,null,0,3119,0
+1600819623791,484,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,49339,1836,5,5,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,458,0,0
+1600819613152,1540,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,33135,5539,5,5,null,0,10530,0
+1600819616778,422,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,30307,1828,4,4,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/1614713/,409,0,0
+1600819620470,59,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,4,4,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819624162,1059,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1059,0,0
+1600819622512,492,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,51561,1797,5,5,null,0,4557,0
+1600819627068,492,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,51561,1797,5,5,https://ie.rs-online.com/web/c/lighting/,469,0,0
+1600819622108,1529,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,57142,4881,5,5,null,0,7760,44
+1600819622115,1323,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,28589,1266,5,5,https://ie.rs-online.com/web/,1092,0,44
+1600819626724,150,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,27139,1709,5,5,https://ie.rs-online.com/web/,140,0,0
+1600819631339,56,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1414,1906,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819627562,717,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,50790,1823,5,5,null,0,4121,0
+1600819631683,717,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,50790,1823,5,5,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,697,0,0
+1600819624276,321,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,32262,3761,5,5,null,0,8487,0
+1600819628407,260,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,30848,1860,5,5,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-ammeters/,247,0,0
+1600819633021,61,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819622294,1593,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57128,4883,5,5,null,0,10250,52
+1600819624848,1323,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28582,1266,5,5,https://ie.rs-online.com/web/,1097,0,52
+1600819629461,211,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27132,1710,5,5,https://ie.rs-online.com/web/,198,0,0
+1600819634076,59,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1907,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819625233,1568,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36740,3964,5,5,null,0,7654,0
+1600819628777,508,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35810,1823,5,5,https://ie.rs-online.com/web/ca/basketsummary/,489,0,0
+1600819633393,1060,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,930,2141,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,1060,0,0
+1600819631400,632,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,49491,1812,5,5,null,0,4554,0
+1600819635953,632,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,49491,1812,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,612,0,0
+1600819634138,540,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,49488,1812,5,5,null,0,4555,0
+1600819638692,540,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,49488,1812,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,514,0,0
+1600819632401,328,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,27547,3738,5,5,null,0,8251,0
+1600819636298,268,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,26133,1837,5,5,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,253,0,0
+1600819640913,60,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819636586,432,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,49259,1828,5,5,null,0,3984,0
+1600819640569,432,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,49259,1828,5,5,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/,404,0,0
+1600819639234,450,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,52233,1832,5,5,null,0,4073,0
+1600819643306,450,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,52233,1832,5,5,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/,429,0,0
+1600819634456,2588,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,57138,4881,5,5,null,0,10256,57
+1600819638008,2365,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28589,1266,5,5,https://ie.rs-online.com/web/,2106,0,57
+1600819642621,163,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27135,1709,5,5,https://ie.rs-online.com/web/,160,0,0
+1600819647236,60,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1906,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819633085,2702,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,33007,5531,5,5,null,0,13145,0
+1600819637636,576,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,30179,1820,5,5,https://ie.rs-online.com/web/p/analogue-panel-ammeters/9010368/,559,0,0
+1600819642253,61,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819646866,2065,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2065,0,0
+1600819641002,425,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,31789,3738,5,5,null,0,8436,0
+1600819645184,363,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,30374,1837,5,5,https://ie.rs-online.com/web/c/automation-control-gear/timers-counters/counters/,347,0,0
+1600819649800,62,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1415,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819647302,578,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,51604,1797,5,5,null,0,4551,0
+1600819651853,578,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,51604,1797,5,5,https://ie.rs-online.com/web/c/switches/,555,0,0
+1600819643757,399,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,29128,3748,5,5,null,0,8441,0
+1600819647920,341,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27714,1847,5,5,https://ie.rs-online.com/web/c/automation-control-gear/sensors-transducers/sensor-testers/,325,0,0
+1600819652537,58,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819652433,420,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,45142,1823,5,5,null,0,4034,0
+1600819656467,420,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,45142,1823,5,5,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,413,0,0
+1600819640981,3640,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,32945,5521,5,5,null,0,13190,0
+1600819645533,526,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,30117,1810,5,5,https://ie.rs-online.com/web/p/shaver-lights/8474875/,511,0,0
+1600819650147,61,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819654758,3053,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3053,0,0
+1600819648951,2493,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,36745,3964,5,5,null,0,6713,0
+1600819651481,433,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,35812,1823,5,5,https://ie.rs-online.com/web/ca/basketsummary/,424,0,0
+1600819656096,2060,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,933,2141,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,2060,0,0
+1600819649866,1518,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,33271,5516,5,5,null,0,13325,0
+1600819654413,388,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,30443,1805,5,5,https://ie.rs-online.com/web/p/counters/6699316/,384,0,0
+1600819659030,66,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,66,0,0
+1600819663644,1064,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1064,0,0
+1600819656887,344,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,29082,3749,5,5,null,0,8528,0
+1600819661083,284,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27668,1848,5,5,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,276,0,0
+1600819665697,60,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,60,0,0
+1600819652599,1555,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,33773,5522,5,5,null,0,13291,0
+1600819657152,427,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,30945,1811,5,5,https://ie.rs-online.com/web/p/sensor-testers/6122184/,419,0,0
+1600819661766,64,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,64,0,0
+1600819666381,1064,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,1064,0,0
+1600819657828,410,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,56031,7158,5,5,null,0,10424,0
+1600819659374,209,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,28163,3290,5,5,https://ie.rs-online.com/web/,61,0,0
+1600819663988,145,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,26795,1942,5,5,https://ie.rs-online.com/web/,133,0,0
+1600819668603,56,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1073,1926,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819658158,2723,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,57285,4900,5,5,null,0,9135,75
+1600819660713,2478,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,28660,1266,5,5,https://ie.rs-online.com/web/,2126,0,75
+1600819665326,172,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,27211,1728,5,5,https://ie.rs-online.com/web/,165,0,0
+1600819669941,73,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1906,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,73,0,0
+1600819664743,290,ADD PRODUCT TO BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,2993,3918,5,5,null,0,7902,0
+1600819668260,231,Add-211,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1655,2104,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/669-9316/1,231,0,0
+1600819672874,59,Add-212,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1338,1814,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819670018,641,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,49489,1812,5,5,null,0,4539,0
+1600819674556,641,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,49489,1812,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,620,0,0
+1600819667450,1504,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36745,3964,5,5,null,0,7717,0
+1600819670996,446,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35812,1823,5,5,https://ie.rs-online.com/web/ca/basketsummary/,429,0,0
+1600819675611,1058,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,1058,0,0
+1600819675199,458,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,49328,1836,5,5,null,0,3973,0
+1600819679171,458,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,49328,1836,5,5,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,432,0,0
+1600819668664,3095,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,36379,3944,5,5,null,0,8185,52
+1600819673217,985,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,35446,1823,5,5,https://ie.rs-online.com/web/ca/basketsummary/,970,0,0
+1600819677832,2110,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,933,2121,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,2110,0,52
+1600819665762,2519,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,32428,5532,5,5,null,0,13322,0
+1600819670312,401,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,29600,1821,5,5,https://ie.rs-online.com/web/p/foot-switch-guard-covers/0116726/,393,0,0
+1600819674927,58,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819679542,2060,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2060,0,0
+1600819672936,3608,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,40058,4044,5,5,null,0,8622,0
+1600819677488,549,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,39041,1863,5,5,https://ie.rs-online.com/web/ca/basketsummary/,529,0,0
+1600819682104,3059,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1017,2181,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,3059,0,0
+1600819679631,319,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,26881,3767,5,5,null,0,8507,0
+1600819683786,263,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,25467,1866,5,5,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-battery-meters/,253,0,0
+1600819688400,56,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819676673,2595,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,57144,4881,5,5,null,0,10272,47
+1600819680226,2349,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,28595,1266,5,5,https://ie.rs-online.com/web/,2097,0,47
+1600819684841,164,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27134,1709,5,5,https://ie.rs-online.com/web/,155,0,0
+1600819689456,82,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1906,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,82,0,0
+1600819681629,1511,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,36736,3964,5,5,null,0,6694,0
+1600819684157,453,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,35806,1823,5,5,https://ie.rs-online.com/web/ca/basketsummary/,437,0,0
+1600819688771,1058,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,930,2141,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,1057,0,0
+1600819679950,2643,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,57140,4881,5,5,null,0,9149,47
+1600819682448,2426,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,28587,1266,5,5,https://ie.rs-online.com/web/,2137,0,47
+1600819687063,156,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,27139,1709,5,5,https://ie.rs-online.com/web/,146,0,0
+1600819691679,61,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1906,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,61,0,0
+1600819689543,543,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,43055,3605,5,5,null,0,4530,0
+1600819694072,543,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,43055,3605,5,5,https://ie.rs-online.com/web/c/batteries-chargers/,32,0,0
+1600819685170,2631,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,57137,4881,5,5,null,0,8208,49
+1600819686720,2408,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,28587,1266,5,5,https://ie.rs-online.com/web/,2097,0,49
+1600819691335,163,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,27136,1709,5,5,https://ie.rs-online.com/web/,158,0,0
+1600819695949,60,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1414,1906,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819691745,404,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,42445,1807,5,5,null,0,4548,0
+1600819696293,404,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,42445,1807,5,5,https://ie.rs-online.com/web/c/batteries-chargers/,379,0,0
+1600819694617,617,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,44583,3664,5,5,null,0,4069,0
+1600819698685,617,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,44583,3664,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,27,0,0
+1600819696012,476,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,44539,1801,5,5,null,0,4553,0
+1600819700564,476,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,44539,1801,5,5,https://ie.rs-online.com/web/c/cables-wires/,453,0,0
+1600819696698,493,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,45632,1836,5,5,null,0,4210,0
+1600819700908,493,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,45632,1836,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,469,0,0
+1600819689837,3633,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,57126,4883,5,5,null,0,9206,65
+1600819693387,3357,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,28580,1266,5,5,https://ie.rs-online.com/web/,3111,0,65
+1600819698003,220,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,27132,1710,5,5,https://ie.rs-online.com/web/,206,0,0
+1600819702617,56,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1907,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819688458,2493,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,32965,5537,5,5,null,0,13366,0
+1600819693017,366,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,30137,1826,5,5,https://ie.rs-online.com/web/p/analogue-panel-battery-meters/0244929/,362,0,0
+1600819697632,56,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819702246,2071,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2071,0,0
+1600819701043,554,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,46412,1827,5,5,null,0,4137,0
+1600819705180,554,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,46412,1827,5,5,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,534,0,0
+1600819702678,566,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,49500,1812,5,5,null,0,4554,0
+1600819707232,566,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,49500,1812,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,542,0,0
+1600819699304,470,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,29371,5649,5,5,null,0,8216,0
+1600819703301,400,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,27956,3800,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,75,0,0
+1600819707917,70,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1415,1849,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,70,0,0
+1600819701402,424,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,33321,3773,5,5,null,0,8390,0
+1600819705523,368,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,31826,1853,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,354,0,0
+1600819710157,56,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1495,1920,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819707799,566,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,49332,1836,5,5,null,0,4049,0
+1600819711847,566,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,49332,1836,5,5,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/,535,0,0
+1600819704344,1495,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,36747,3964,5,5,null,0,6696,0
+1600819706861,436,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,35814,1823,5,5,https://ie.rs-online.com/web/ca/basketsummary/,419,0,0
+1600819711475,1059,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,933,2141,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,1059,0,0
+1600819705735,414,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,31914,3760,5,5,null,0,8319,0
+1600819709794,355,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,30500,1859,5,5,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,342,0,0
+1600819714408,59,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,59,0,0
+1600819712416,371,CATEGORY PAGE 3,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,32419,3761,5,5,null,0,8348,0
+1600819716462,315,Cat3-185,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,31005,1860,5,5,https://ie.rs-online.com/web/c/automation-control-gear/panel-meters-components/analogue-panel-ammeters/,301,0,0
+1600819721077,56,Cat3-191,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819707991,2630,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,35266,7391,5,5,null,0,13204,0
+1600819712530,508,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,32438,3732,5,5,https://ie.rs-online.com/web/p/sensor-testers/6122184/,63,0,0
+1600819717146,58,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1849,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819721761,2064,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,2064,0,0
+1600819712537,1622,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,57116,4881,5,5,null,0,11226,51
+1600819716092,1384,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,28579,1266,5,5,https://ie.rs-online.com/web/,1118,0,51
+1600819720707,176,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,27123,1709,5,5,https://ie.rs-online.com/web/,163,0,0
+1600819725322,62,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,1414,1906,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,62,0,0
+1600819710220,3551,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,32617,5524,5,5,null,0,13270,0
+1600819714774,402,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,29789,1813,5,5,https://ie.rs-online.com/web/p/battery-chargers/4784099/,390,0,0
+1600819719368,92,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,92,0,0
+1600819723984,3057,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3057,0,0
+1600819725387,575,CATEGORY PAGE 1,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,51563,1797,5,5,null,0,4549,0
+1600819729935,575,CATEGORY PAGE 1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,51563,1797,5,5,https://ie.rs-online.com/web/c/lighting/,557,0,0
+1600819714469,3542,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,31841,5539,5,5,null,0,13310,0
+1600819719024,417,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,29013,1828,5,5,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/4495547/,412,0,0
+1600819723639,59,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
+1600819728255,3066,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3066,0,0
+1600819723845,1482,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-1,,true,,36743,3964,5,5,null,0,6726,0
+1600819726376,422,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,35810,1823,5,5,https://ie.rs-online.com/web/ca/basketsummary/,408,0,0
+1600819730991,1060,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,true,,933,2141,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,1060,0,0
+1600819730511,495,CATEGORY PAGE 2,200,"Number of samples in transaction : 1, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-4,,true,,50791,1823,5,5,null,0,4040,0
+1600819734551,495,CATEGORY PAGE 2,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,true,,50791,1823,5,5,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,468,0,0
+1600819727069,4346,VIEW BASKET,200,"Number of samples in transaction : 2, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-3,,true,,36734,3964,5,5,null,0,4854,0
+1600819728599,1291,Viewbasket-213,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,35801,1823,5,5,https://ie.rs-online.com/web/ca/basketsummary/,1277,0,0
+1600819733212,3055,Viewbasket-221,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,true,,933,2141,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,3055,0,0
+1600819721136,3527,VIEW PRODUCT,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-2,,true,,32265,5531,5,5,null,0,13322,0
+1600819725693,409,View-201,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,29437,1820,5,5,https://ie.rs-online.com/web/p/analogue-panel-ammeters/1862510/,398,0,0
+1600819730307,56,View-207,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1901,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,56,0,0
+1600819734923,3062,View-209,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,true,,1414,1810,5,5,https://ie.rs-online.com/web/services/webAnalytics/dynamicProductData,3061,0,0
+1600819731360,470,HOMEPAGE,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Concurrency Thread Group-ThreadStarter 1-5,,true,,56036,7158,5,5,null,0,10330,0
+1600819732869,248,Home-136,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,28168,3290,5,5,https://ie.rs-online.com/web/,91,0,0
+1600819737484,164,Home-137,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,26795,1942,5,5,https://ie.rs-online.com/web/,153,0,0
+1600819742100,58,Home-146 ,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,true,,1073,1926,5,5,https://ie.rs-online.com/web/miniBasketRunningTotal.html,58,0,0
